@@ -1,0 +1,19 @@
+Einfache Benutzeroberfläche mit Drag-and-Drop-Funktionalität:
+	Die Software soll eine intuitive Benutzeroberfläche bieten, in der Benutzer durch Drag-and-Drop
+	einfache Musikblöcke (z. B. Beats, Melodien, Effekte) zusammenstellen können.
+
+Bibliothek mit vorgefertigten Sounds und Instrumenten:
+	Das Programm soll eine kleine Bibliothek mit Sounds, Loops und virtuellen Instrumenten
+	bieten, die einfach integriert und angepasst werden können.
+
+Interaktive Tutorials und Lernmodi:
+	Die Software soll einen extra Modus mit Tutorials enthalten, die Anfängern beibringen, wie man einfache 
+	Tracks erstellt, ohne Vorwissen über Musiktheorie oder Technik zu benötigen.
+
+Grundlegende Bearbeitungswerkzeuge für Audio und MIDI:
+	Benutzer sollen einfache Bearbeitungswerkzeuge nutzen können, um Audio- und MIDI-Daten anzupassen 
+	(z. B. Tempo, Tonhöhe, Lautstärke).
+
+Exportfunktion für fertige Tracks:
+	Die Software soll eine Funktion bieten, mit der Benutzer ihre fertigen Musikstücke als Audio-Datei 
+	(z. B. MP3, WAV) exportieren können.
